@@ -1,4 +1,4 @@
-# TFG - Análisis de NUMTs y NUPTs en genomas mitocondriales y nucleares
+# TFG - ESTUDIO COMPARATIVO DE LA FRACCIÓN DE ADN NUCLEAR DE ORIGEN ORGANELAR ENTRE LAS ESPECIES MORINGA STENOPETALA Y M. OLEIFERA
 Este repositorio contiene los scripts y análisis desarrollados para el Trabajo de Fin de Grado (TFG), centrado en la detección, análisis y visualización de secuencias NUMTs y NUPTs en diferentes genomas.
 
 ## Descripción
