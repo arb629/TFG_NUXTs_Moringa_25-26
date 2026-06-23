@@ -12,9 +12,9 @@ Se incluyen scripts en R y Python para:
 Organizar de forma reproducible todo el pipeline de análisis del TFG, permitiendo su reutilización y validación por terceros.
 
 ## Estructura del repositorio
-- Extraccion_BASEML/        # Scripts de extracción y procesamiento
-- Figuras_R/               # Scripts de generación de figuras en R
-- NUXTs_comunes_especificos/ # Análisis comparativo en Python
+- Extraccion_BASEML (Scripts de extracción y procesamiento)
+- Figuras_R (Scripts de generación de figuras en R)
+- NUXTs_comunes_especificos (Análisis comparativo en Python)
 - filtro_numt_no_duplicaciones.R
 
 ## Scripts principales
